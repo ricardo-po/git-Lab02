@@ -1,3 +1,3 @@
-export default function HelloWorld() {
-    
+export default function HelloWorldTwo() {
+    alert('hello world!!!');
 }
