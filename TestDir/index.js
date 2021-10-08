@@ -1,3 +1,5 @@
 export default function HelloWorld() {
-    console.log('Aloha X');
+    console.log('John Doe');
+
+    const x = 2;
 }
