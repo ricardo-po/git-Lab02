@@ -1,3 +1,3 @@
 export default function HelloWorld() {
-    console.log('Aloha');
+    console.log('Aloha X');
 }
